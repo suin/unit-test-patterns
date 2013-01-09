@@ -1,14 +1,15 @@
-# UnitTestPatterns
+# Unit Test Patterns
 
 [![Build Status](https://secure.travis-ci.org/suin/unit-test-patterns.png?branch=master)](https://travis-ci.org/suin/unit-test-patterns)
 
-## What is UnitTestPatterns?
+## What is Unit Test Patterns?
 
-editing...
+This is an example code collections of unit test petterns.
+
 
 ## Requirements
 
-editing...
+PHP 5.4 or later
 
 ## Installation
 

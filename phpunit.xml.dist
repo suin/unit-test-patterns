@@ -7,7 +7,7 @@
         colors="true">
     <testsuites>
         <testsuite name="PHPUnit">
-            <directory>src/*/*/Tests</directory>
+            <directory>src/*/*/*/Tests</directory>
         </testsuite>
     </testsuites>
 
@@ -37,8 +37,8 @@
             <!-- <file>/path/to/file</file> -->
             <exclude>
                 <!-- <file>/path/to/file</file> -->
-                <directory suffix="Interface.php">src</directory>
-                <directory>src/*/*/Tests</directory>
+                <!-- directory suffix="Interface.php">src</directory -->
+                <directory>src/*/*/*/Tests</directory>
             </exclude>
         </whitelist>
     </filter>
